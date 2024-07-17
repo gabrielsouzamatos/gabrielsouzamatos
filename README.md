@@ -1,4 +1,4 @@
-### Oi, eu sou o Gabriel (19y).
+### Oi, eu sou o Gabriel.
 
 ## Status
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsouzamatos&show_icons=true&theme=tokyonight)
